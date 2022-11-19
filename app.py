@@ -1,6 +1,5 @@
 from flask import Flask,render_template,url_for,request
 import pandas as pd
-import nltk
 import string
 from nltk.stem.porter import PorterStemmer
 from sklearn.feature_extraction.text import CountVectorizer
