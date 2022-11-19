@@ -1,7 +1,6 @@
-Flask
-pandas
-nltk
-sklearn
-pickle 
-gunicorn
-numpy
+Flask==1.1.2
+pandas==1.4.2
+nltk==3.7.0
+scikit-learn==1.0.2
+gunicorn==20.1.0
+numpy==1.21.5
