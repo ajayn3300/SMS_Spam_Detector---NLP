@@ -1,0 +1,7 @@
+Flask
+pandas
+nltk
+string
+sklearn
+pickle 
+numpy
